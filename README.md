@@ -1,4 +1,5 @@
-## Hi there 👋
+# TypeScript和Rust开发者
+所有关于koishi的库已经全部移交给组织维护了，有问题别问我
 
 <!--
 **ACAlexChen/ACAlexChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
